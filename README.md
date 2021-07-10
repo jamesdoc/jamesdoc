@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter](https://img.shields.io/badge/-@jamesdoc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jamesdoc)](https://twitter.com/jamesdoc)
+[![LinkedIn](https://img.shields.io/badge/-jamesdoc-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jamesdoc/](https://www.linkedin.com/in/jamesdoc/)
 [![Instagram](https://img.shields.io/badge/-@thejamesdoc-a52dc1?style=flat-square&labelColor=a52dc1&logo=instagram&logoColor=white&link=https://instagram.com/thejamesdoc)](https://instagram.com/thejamesdoc)
