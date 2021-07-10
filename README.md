@@ -1,6 +1,6 @@
 ### James Doc
 
-💬 (jamesdoc.com)[https://jamesdoc.com]
+💬 [jamesdoc.com](https://jamesdoc.com)
 <!--
 **jamesdoc/jamesdoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
